@@ -1,5 +1,3 @@
-# django_keycloak_auth
-
 ## Описание
 
 В данном репозитории приведен пример интеграции **Open Source** приложения [**Keycloak**](https://www.keycloak.org/) с **Django**
